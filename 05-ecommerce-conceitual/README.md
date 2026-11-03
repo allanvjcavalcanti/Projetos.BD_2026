@@ -122,3 +122,5 @@ O enunciado não definia alguns pontos, então assumi:
 - O mesmo CNPJ pode aparecer como vendedor e como fornecedor, e é por aí que se descobre se um vendedor também é fornecedor.
 
 O mapeamento para o modelo relacional e o script SQL estão no [projeto lógico](https://github.com/allanvjcavalcanti/ecommerce-projeto-logico-bd).
+
+
