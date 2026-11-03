@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/SQL-MariaDB%2FMySQL-blue?style=for-the-badge&logo=mysql" alt="SQL">
   <img src="https://img.shields.io/badge/NoSQL-MongoDB%20%7C%20Redis%20%7C%20Cassandra-orange?style=for-the-badge" alt="NoSQL">
 </p>
