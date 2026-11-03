@@ -102,3 +102,5 @@ A narrativa não define alguns pontos, então assumi:
 - O cliente é identificado por CPF.
 
 O modelo relacional e o script SQL estão no [projeto lógico](https://github.com/allanvjcavalcanti/oficina-projeto-logico-bd).
+
+
