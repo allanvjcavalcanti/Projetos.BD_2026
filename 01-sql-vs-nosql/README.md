@@ -164,3 +164,5 @@ Num sistema real é comum usar vários bancos, cada um no que faz melhor. Num e-
 - Documentação do [PostgreSQL](https://www.postgresql.org/docs/), [MongoDB](https://www.mongodb.com/docs/), [Redis](https://redis.io/docs/) e [Cassandra](https://cassandra.apache.org/doc/latest/)
 
 Veja também a modelagem relacional aplicada em [e-commerce]($U/ecommerce-projeto-logico-bd) e [oficina]($U/oficina-projeto-logico-bd).
+
+
