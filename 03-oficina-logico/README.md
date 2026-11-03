@@ -59,3 +59,5 @@ order by total_gasto desc;
 |---|---|---|
 | Roberto Almeida | 2 | 745.00 |
 | Fernanda Costa | 1 | 620.00 |
+
+
