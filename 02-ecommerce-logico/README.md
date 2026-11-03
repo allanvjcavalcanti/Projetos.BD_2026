@@ -78,3 +78,5 @@ order by qtd_pedidos desc, c.nome;
 | Diego Fonseca | PF | 1 |
 | Móveis Aurora ME | PJ | 1 |
 | Rafael Teixeira | PF | 1 |
+
+
