@@ -51,4 +51,4 @@ Projeto desenvolvido como prática abrangente em Engenharia de Dados e Banco de 
 
 Desenvolvido por **Allan Victor V. J. Cavalcanti**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanvjcavalcanti/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanvjcavalcanti/)
